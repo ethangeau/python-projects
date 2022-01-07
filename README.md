@@ -11,3 +11,4 @@
 [The widely played pong game](pong-game)<br/>
 [A turtle crossing game](turtle-crossing)<br/>
 [An automatic mail merging machine](mail-merge)<br/>
+[A NATO alphabet generator](NATO-alphabet)<br/>
