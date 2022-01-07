@@ -12,3 +12,4 @@
 [A turtle crossing game](turtle-crossing)<br/>
 [An automatic mail merging machine](mail-merge)<br/>
 [A NATO alphabet generator](NATO-alphabet)<br/>
+[A mile to kilometers GUI converter](mile-kilometers-GUI-converter)<br/>
