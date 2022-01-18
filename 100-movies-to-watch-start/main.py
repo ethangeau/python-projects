@@ -13,7 +13,6 @@ contents = response.text
 soup = BeautifulSoup(contents, 'html.parser')
 # print(soup.prettify())
 all_movies = soup.find_all(name="h3")
-# print(all_movies)
 movies = [movie.text for movie in all_movies]
 # print(movies)
 movies_reverse = movies[::-1]
